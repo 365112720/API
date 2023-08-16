@@ -1,0 +1,72 @@
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.deps.json
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.pdb
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\ShopInterface\obj\Debug\net7.0\refint\ShopInterface.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.pdb
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\ShopInterface\obj\Debug\net7.0\ref\ShopInterface.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.deps.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.pdb
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.csproj.AssemblyReference.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.AssemblyInfoInputs.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.AssemblyInfo.cs
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.csproj.CoreCompileInputs.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\ShopInterface\obj\Debug\net7.0\refint\ShopInterface.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.pdb
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\ShopInterface\obj\Debug\net7.0\ref\ShopInterface.dll
+C:\Users\刘小可\Desktop\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.deps.json
+C:\Users\刘小可\Desktop\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.dll
+C:\Users\刘小可\Desktop\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.pdb
+C:\Users\刘小可\Desktop\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.csproj.AssemblyReference.cache
+C:\Users\刘小可\Desktop\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\刘小可\Desktop\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.AssemblyInfoInputs.cache
+C:\Users\刘小可\Desktop\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.AssemblyInfo.cs
+C:\Users\刘小可\Desktop\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.csproj.CoreCompileInputs.cache
+C:\Users\刘小可\Desktop\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.dll
+C:\Users\刘小可\Desktop\AdminPlus2\ShopInterface\obj\Debug\net7.0\refint\ShopInterface.dll
+C:\Users\刘小可\Desktop\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.pdb
+C:\Users\刘小可\Desktop\AdminPlus2\ShopInterface\obj\Debug\net7.0\ref\ShopInterface.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.deps.json
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.pdb
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\ShopInterface\obj\Debug\net7.0\refint\ShopInterface.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.pdb
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\ShopInterface\obj\Debug\net7.0\ref\ShopInterface.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.deps.json
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.pdb
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.csproj.AssemblyReference.cache
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.AssemblyInfoInputs.cache
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.AssemblyInfo.cs
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.csproj.CoreCompileInputs.cache
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\ShopInterface\obj\Debug\net7.0\refint\ShopInterface.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.pdb
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\ShopInterface\obj\Debug\net7.0\ref\ShopInterface.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.deps.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\ShopInterface\bin\Debug\net7.0\ShopInterface.pdb
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.csproj.AssemblyReference.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.AssemblyInfoInputs.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.AssemblyInfo.cs
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.csproj.CoreCompileInputs.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\ShopInterface\obj\Debug\net7.0\refint\ShopInterface.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\ShopInterface\obj\Debug\net7.0\ShopInterface.pdb
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\ShopInterface\obj\Debug\net7.0\ref\ShopInterface.dll

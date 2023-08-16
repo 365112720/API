@@ -1,0 +1,183 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AdminPlus2</name>
+    </assembly>
+    <members>
+        <member name="M:AdminPlus2.Controllers.LoginController.Login(System.String,System.String)">
+            <summary>
+            用户登录
+            </summary>
+            <param name="username"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Controllers.LoginController.GetAllCustomer">
+            <summary>
+            获取所有用户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Controllers.LoginController.GetCustomerForId(System.Int32)">
+            <summary>
+            根据ID获取用户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Controllers.LoginController.GetCustomerForAccount(System.String)">
+            <summary>
+            根据用户名获取用户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Controllers.LoginController.UpdateCustomer(Models.Customer)">
+            <summary>
+            修改用户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Controllers.LoginController.AddCustomer(Models.Customer)">
+            <summary>
+            添加用户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Controllers.LoginController.DeleteCustomer(System.Int32)">
+            <summary>
+            删除用户
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Controllers.OrderController.GetAllOrder">
+            <summary>
+            获取所有用户订单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Controllers.OrderController.AddOrder(Models.Order)">
+            <summary>
+            添加用户订单
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:AdminPlus2.Controllers.UserController">
+            <summary>
+            用户
+            </summary>
+            
+        </member>
+        <member name="M:AdminPlus2.Controllers.UserController.GetAllUser">
+            <summary>
+            获取所有用户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Controllers.UserController.GetUserForId(System.Int32)">
+            <summary>
+            根据ID获取用户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Controllers.UserController.GetUserForUsername(System.String)">
+            <summary>
+            根据用户名获取用户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Controllers.UserController.UpdateUser(Models.User)">
+            <summary>
+            修改用户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Controllers.UserController.AddUser(Models.User)">
+            <summary>
+            添加用户
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Controllers.UserController.DeleteUser(System.Int32)">
+            <summary>
+            删除用户
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="P:AdminPlus2.DTO.AddProductPropertyDTO.File">
+            <summary>
+            图片文件
+            </summary>
+        </member>
+        <member name="T:AdminPlus2.Models.ResultModel">
+            <summary>
+            定义返回状态
+            </summary>
+        </member>
+        <member name="P:AdminPlus2.Models.ResultModel.code">
+            <summary>
+            状态码
+            </summary>
+        </member>
+        <member name="P:AdminPlus2.Models.ResultModel.data">
+            <summary>
+            数据
+            </summary>
+        </member>
+        <member name="P:AdminPlus2.Models.ResultModel.msg">
+            <summary>
+            信息
+            </summary>
+        </member>
+        <member name="T:AdminPlus2.Models.ResultCode">
+            <summary>
+            自定义状态码
+            </summary>
+        </member>
+        <member name="M:AdminPlus2.Utility.CustomerHelps.CheckCustomer(Models.Customer)">
+            <summary>
+            判断用户名和密码是否为空-----判断密码长度等也是在这里判断
+            </summary>
+            <param name="newUser"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Utility.OrderHelps.CheckOrder(Models.Order)">
+            <summary>
+            判断数据字段是否为空-----判长度等也是在这里判断
+            </summary>
+            <param name="order"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Utility.ProductPropertyHelps.CheckProductProperty(AdminPlus2.DTO.AddProductPropertyDTO)">
+            <summary>
+            判断数据是否为空
+            </summary>
+            <param name="newUser"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Utility.ProductPropertyHelps.IsImage(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            判断文件是否是图片
+            </summary>
+            <param name="file"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AdminPlus2.Utility.UserHelps.CheckUser(Models.User)">
+            <summary>
+            判断用户名和密码是否为空-----判断密码长度等也是在这里判断
+            </summary>
+            <param name="newUser"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Dtodata.ShopDbContext">
+            <summary>
+            当前的类库  是 数据访问层  定义 访问  数据层 DATA 
+            </summary>
+        </member>
+        <member name="T:AdminXP.Utility.SwaggerExt.ApiVersions">
+            <summary>
+            版本显示 这里进行定义
+            </summary>
+        </member>
+    </members>
+</doc>

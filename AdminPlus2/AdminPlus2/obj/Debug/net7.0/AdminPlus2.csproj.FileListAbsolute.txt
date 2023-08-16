@@ -1,0 +1,498 @@
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\appsettings.json
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.exe
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.deps.json
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.runtimeconfig.json
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.pdb
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.AdminPlus2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.build.AdminPlus2.props
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AdminPlus2.props
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AdminPlus2.props
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\scopedcss\bundle\AdminPlus2.styles.css
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\refint\AdminPlus2.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.pdb
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\ref\AdminPlus2.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.xml
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.xml
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopInterface.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopService.dll
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopInterface.pdb
+C:\Users\Administrator\Desktop\ViteXP练习\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopService.pdb
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\appsettings.Development.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\appsettings.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.exe
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.deps.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.runtimeconfig.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.pdb
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.xml
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Azure.Core.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Azure.Identity.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Memory.Data.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopInterface.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopService.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopInterface.pdb
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopService.pdb
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.AssemblyReference.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.GeneratedMSBuildEditorConfig.editorconfig
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.AssemblyInfoInputs.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.AssemblyInfo.cs
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.CoreCompileInputs.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.MvcApplicationPartsAssemblyInfo.cs
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.MvcApplicationPartsAssemblyInfo.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.AdminPlus2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.build.AdminPlus2.props
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AdminPlus2.props
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AdminPlus2.props
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.pack.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.build.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.development.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\scopedcss\bundle\AdminPlus2.styles.css
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.CopyComplete
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\refint\AdminPlus2.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.xml
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.pdb
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.genruntimeconfig.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2\AdminPlus2\obj\Debug\net7.0\ref\AdminPlus2.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\appsettings.json
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.exe
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.deps.json
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.runtimeconfig.json
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.pdb
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.xml
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopInterface.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopService.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopInterface.pdb
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopService.pdb
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.AssemblyReference.cache
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.AssemblyInfoInputs.cache
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.AssemblyInfo.cs
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.CoreCompileInputs.cache
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.AdminPlus2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.build.AdminPlus2.props
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AdminPlus2.props
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AdminPlus2.props
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\scopedcss\bundle\AdminPlus2.styles.css
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.CopyComplete
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\refint\AdminPlus2.dll
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.xml
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.pdb
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.genruntimeconfig.cache
+C:\Users\刘小可\Desktop\AdminPlus2\AdminPlus2\obj\Debug\net7.0\ref\AdminPlus2.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\appsettings.json
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.exe
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.deps.json
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.runtimeconfig.json
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.pdb
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.xml
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopInterface.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopService.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopInterface.pdb
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopService.pdb
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.AdminPlus2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.build.AdminPlus2.props
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AdminPlus2.props
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AdminPlus2.props
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\scopedcss\bundle\AdminPlus2.styles.css
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.CopyComplete
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\refint\AdminPlus2.dll
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.xml
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.pdb
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\AdminPlus2 (2)\AdminPlus2\AdminPlus2\obj\Debug\net7.0\ref\AdminPlus2.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\appsettings.json
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.exe
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.deps.json
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.runtimeconfig.json
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.pdb
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.xml
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopInterface.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopService.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopInterface.pdb
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopService.pdb
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.AssemblyReference.cache
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.AssemblyInfoInputs.cache
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.AssemblyInfo.cs
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.CoreCompileInputs.cache
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.AdminPlus2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.build.AdminPlus2.props
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AdminPlus2.props
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AdminPlus2.props
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\scopedcss\bundle\AdminPlus2.styles.css
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.CopyComplete
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\refint\AdminPlus2.dll
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.xml
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.pdb
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.genruntimeconfig.cache
+C:\Users\刘小可\Desktop\88\AdminPlus2\AdminPlus2\AdminPlus2\obj\Debug\net7.0\ref\AdminPlus2.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\appsettings.Development.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\appsettings.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.exe
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.deps.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.runtimeconfig.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.pdb
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\AdminPlus2.xml
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Azure.Core.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Azure.Identity.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Memory.Data.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopInterface.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopService.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopInterface.pdb
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\bin\Debug\net7.0\ShopService.pdb
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.AssemblyReference.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.GeneratedMSBuildEditorConfig.editorconfig
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.AssemblyInfoInputs.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.AssemblyInfo.cs
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.CoreCompileInputs.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.MvcApplicationPartsAssemblyInfo.cs
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.MvcApplicationPartsAssemblyInfo.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.AdminPlus2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.build.AdminPlus2.props
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AdminPlus2.props
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AdminPlus2.props
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.pack.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.build.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\staticwebassets.development.json
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\scopedcss\bundle\AdminPlus2.styles.css
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.csproj.CopyComplete
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\refint\AdminPlus2.dll
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.xml
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.pdb
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\AdminPlus2.genruntimeconfig.cache
+D:\qq\qq信息\1585940218\FileRecv\AdminPlus2e\AdminPlus2\AdminPlus2\obj\Debug\net7.0\ref\AdminPlus2.dll
